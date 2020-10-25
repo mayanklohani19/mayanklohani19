@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mayank Lohani, I am a Electronics & Communication Enginnering graduate from DIT UNIVERSITY with an experience of more than 2.3 years.
+My name is Mayank Lohani, I am a Electronics & Communication Enginnering graduate from DIT UNIVERSITY with an experience of more than 2.5 years.
 I am skilled in Data Science, Machine Learning, Deep Learning & Application Development.
 This is my personal Github account where I upload interesting projects related to Data Science and Machine Learning.
 
