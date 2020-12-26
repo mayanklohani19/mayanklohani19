@@ -27,3 +27,6 @@ This is my personal Github account where I upload interesting projects related t
     
 * LinkedIn - https://www.linkedin.com/in/mayank-lohani-84b91331/
 * Email    - mayanklohani19@gmail.com
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arpit-dwivedi&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
