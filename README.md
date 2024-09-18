@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-My name is Mayank Lohani, I am a Enginnering Graduate from DIT UNIVERSITY with an experience of more than 6 years.
+My name is Mayank Lohani, I am having experience of more than 6 years.
 I am skilled in Data Science, Machine Learning, Deep Learning & Application Development.
 This is my personal Github account where I upload interesting projects related to Data Science and Machine Learning.
 
 **Highlights** 
 
-* Skilled in the domain of Python, Data Science, Machine Learning and Deep Learning.
+* Skilled in the domain of Python, Data Science, Machine Learning and Deep Learning, Generative AI.
 * Working as an Senior Machine Learning Engineer with Gartner.
+* Previously worked with Accenture, Fanuc.
 * Udacity Certified Data Analyst Nanodegree.
 * Neo4j Certfied Professional.
 * Undergone courses in ML, DS from 365datascience, Udemy, Coursera, Great Learning & GreyAtom.
@@ -26,7 +27,7 @@ This is my personal Github account where I upload interesting projects related t
 * Proficient in Algorithms, Problem-Solving, and Debugging.
 * Experienced in working with both Water Fall and Agile Methodology of Software Development Life Cycle.
 * Ability to work in team as well as can lead.
-* Have knowledge in programming languages like C ,C#, Ruby and Python.
+* Have knowledge in programming languages like Python, Pyspark, SQL.
 
 **How to reach me 📱**
     
