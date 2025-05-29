@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mayank Lohani, I am having experience of more than 6 years.
+My name is Mayank Lohani, I am having experience of more than 7 years.
 I am skilled in Data Science, Machine Learning, Deep Learning & Application Development.
 This is my personal Github account where I upload interesting projects related to Data Science and Machine Learning.
 
